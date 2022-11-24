@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:forest"
+  ],
+  "spawners": {
+    "type": "frog:log_frog",
+    "weight": 100,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}
